@@ -141,11 +141,10 @@ hr.medium {
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
-	/* padding: 100px 0 50px; */
 	padding: 100px 0 50px;
   /* color: #eee; */
-  /* color: #333333; */
-  color: black;
+	/* color: #e6e6e6; */
+  color: white;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
