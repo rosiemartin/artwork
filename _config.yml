@@ -1,14 +1,9 @@
-rosieposieprincess.github.io/_config.yml
-28cbaae  a day ago
-@rosieposieprincess rosieposieprincess change name
-3 contributors @rosieposieprincess @nessig @sunbliss
-RawBlameHistory     71 lines (63 sloc)  1.6 KB
 # Site settings
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "http://rosieposieprincess.github.io"
-baseurl: /rosie
+baseurl: /artwork
 instagram_username: ""
 github_username:  "rosieposieprincess"
 deviantart_username: ""
