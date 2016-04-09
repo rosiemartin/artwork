@@ -9,6 +9,19 @@ module.exports = function(grunt) {
                 dest: 'js/<%= pkg.name %>.min.js'
             }
         },
+		imagemin: {
+			dist: {
+				options: {
+					optimizationLevel: 7
+				},
+				files: [{
+					expand: true,
+					cwd: 'gallery/archive',
+					src: ['**/*.{png,jpg}'],
+					dest: 'gallery/archivemin'
+				}]
+			}
+		},
         less: {
             expanded: {
                 options: {
@@ -67,8 +80,9 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-less');
     grunt.loadNpmTasks('grunt-banner');
     grunt.loadNpmTasks('grunt-contrib-watch');
-
+	grunt.loadNpmTasks('grunt-contrib-imagemin');
+	
     // Default task(s).
-    grunt.registerTask('default', ['uglify', 'less', 'usebanner']);
+    grunt.registerTask('default', ['uglify', 'less', 'usebanner', 'imagemin']);
 
 };
