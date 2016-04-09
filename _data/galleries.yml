@@ -1,0 +1,137 @@
+- name: Lights
+  description: "These pieces have been taken from my A2 project titled 'Combinations and alliances'. During this project I experimented with lights and photography, painting and figures. This project dates from April - June 2012."
+  imagefolder: Lights/
+  coverimage: Lights/Lights5.jpg
+  date: April - June 2012
+  num-images: 18
+  images:
+  - number: 1
+    caption: "Lights(1), 2012, photograph."
+  - number: 2
+    caption: "Lights(2), 2012, photograph."
+  - number: 3
+    caption: "Lights(3), 2012, photograph."
+  - number: 4
+    caption: "Lights(4), 2012, photograph."
+  - number: 5
+    caption: "Lights(5), 2012, photograph."
+  - number: 6
+    caption: "Lights(6), 2012, photograph."
+  - number: 7
+    caption: "Lights, from sketchbook(1), 2012, acrylic on paper, 11.69 x 16.53”."
+  - number: 8
+    caption: "Lights, from sketchbook(2), 2012, acrylic on paper, 11.69 x 16.53”."
+  - number: 9
+    caption: "Lights, from sketchbook(3), 2012, acrylic on paper, 11.69 x 16.53”."
+  - number: 10
+    caption: "Lights, from sketchbook(4), 2012, acrylic on paper, 11.69 x 16.53”."
+  - number: 11
+    caption: "Lights(7), 2012, photograph."
+  - number: 12
+    caption: "Lights, final piece(1), 2012, acrylic on canvas, 16.53 x 23.39”."
+  - number: 13
+    caption: "Lights, from sketchbook(5), 2012, acrylic and charcoal on paper, 8.2 x 11.4”."
+  - number: 14
+    caption: "Lights, from sketchbook(6), 2012, charcoal on paper, 11.69 x 16.53”."
+  - number: 15
+    caption: "Lights, from sketchbook(7), 2012, acrylic, charcoal and chalk on paper, 11.69 x 16.53”."
+  - number: 16
+    caption: "Lights, from sketchbook(8), 2012, acrylic, charcoal and chalk on paper, 11.69 x 16.53”."
+  - number: 17
+    caption: "Lights, from sketchbook(9), 2012, acrylic, charcoal and chalk on paper, 11.69 x 16.53”."
+  - number: 18
+    caption: "Lights, final piece(2), 2012, acrylic on canvas, 11.69 x 16.53”."
+- name: Mum
+  description: "These pieces have been taken from my A2 project titled 'Britain today'.  Within this project I experimented with photography and painting by taking inspiration from images from my mums childhood. This project dates from February - June 2012."
+  imagefolder: Mum/
+  coverimage: Mum/Mum8.jpg
+  date: Feburary - June 2012
+  num-images: 11
+  images:
+  - number: 1
+    caption: "Mum, from sketchbook(1), 2012, scanned photographs, 11.69 x 16.53. Taken from my mums holiday to Cyprus in 1975."
+  - number: 2
+    caption: "Mum, from sketchbook(2), 2012, scanned photograph, 11.69 x 16.53”. Damaged photograph of mum sat in front of her aunt's house, 1975."
+  - number: 3
+    caption: "Mum, from sketchbook(3), 2012, acrylic and pencil on paper, 11.69 x 16.53”. Abstract paintings of mums photographs from Cypress using thick layers of acrylic paint."
+  - number: 4
+    caption: "Mum, from sketchbook(4), 2012, acrylic and pencil on paper, 11.69 x 16.53”."
+  - number: 5
+    caption: "Mum, from sketchbook(5), 2012, acrylic and pencil on paper, 11.69 x 16.53”."
+  - number: 6
+    caption: "Mum, from sketchbook(6), 2012, acrylic and pencil on scanned photographs."
+  - number: 7
+    caption: "Mum, from sketchbook(7), 2012, acrylic and pencil on paper, 11.69 x 16.53”."
+  - number: 8
+    caption: "Mum, final piece(1), 2012, acrylic and wax on canvas, 11.69 x 16.53”. Painting of photographs of mum at Tim’s christening and outside school."
+  - number: 9
+    caption: "Mum, final piece(2), 2012, acrylic and wax on canvas, 11.69 x 16.53”. Painting of photograph of mum riding a bike."
+  - number: 10
+    caption: "Mum, photographs(1), from sketchbook, 2012, photographs. Photograph of mum from 2012 next to photograph of mum from 1977. Both taken at The Hill."
+  - number: 11
+    caption: "Mum, photographs(2), from sketchbook, 2012, photographs."
+- name: Projections
+  description: "These pieces have been taken from my A2 project titled 'Art today'. Within this project I explored layering images and bodies through projections.  This project dates from September 2011 - January 2012."
+  imagefolder: Projections/
+  coverimage: Projections/Projections10.jpg
+  date: September 2011 - January 2012
+  num-images: 10
+  images:
+  - number: 1
+    caption: "Projections(1), 2011, photograph."
+  - number: 2
+    caption: "Projections(2), 2011, photograph."
+  - number: 3
+    caption: "Projections(3), 2011, photograph."
+  - number: 4
+    caption: "Projections(4), 2011, photograph."
+  - number: 5
+    caption: "Projections(5), 2011, photograph."
+  - number: 6
+    caption: "Projections(6), 2011, photograph."
+  - number: 7
+    caption: "Projections(7), 2011, photograph."
+  - number: 8
+    caption: "Projections, from sketchbook(1), 2011, charcoal on paper, 4.12 x 5.4”."
+  - number: 9
+    caption: "Projections, from sketchbook(2), 2011, charcoal on paper, 5.2 x 7.2”."
+  - number: 10
+    caption: "Projections, final piece, 2011, acrylic on canvas, 23.39 x 33.11”."
+- name: Hands
+  description: "These pieces have been taken from my AS project titled 'Mystery and Imagination'.  For this project I was originally inspired by the effect of blood on hands and progressed to experimenting with different patterns.  This project dates from February - June 2011."
+  imagefolder: Hands/
+  coverimage: Hands/Hands5.jpg
+  date: Feburary - June 2011
+  num-images: 7
+  images:
+  - number: 1
+    caption: "Hands, from sketchbook(1), 2011, photograph, pencil on paper and acrylic on paper, 16.53 x 11.69”."
+  - number: 2
+    caption: "Hands, from sketchbook(2), 2011, acrylic on paper, 16.53 x 11.69”."
+  - number: 3
+    caption: "Hands, doily-print(1), 2011, photograph."
+  - number: 4
+    caption: "Hands, doily-print(2), 2011, photograph."
+  - number: 5
+    caption: "Hands, from sketchbook(3), 2011, pencil on paper, 16.53 x 11.69”."
+  - number: 6
+    caption: "Hands, from sketchbook(4), 2011, pencil on paper, 16.53 x 11.69”."
+  - number: 7
+    caption: "Hands, from sketchbook(5), 2011, pencil on paper, 16.53 x 11.69”."
+- name: Portrait
+  description: "These pieces have been taken from my AS project titled 'Figures and Portraits'.  Within this project I developed different sketching and painting styles for creating portraits, taking inspiration from Lucien Freud and Francis Bacon.  This project dates from September 2010 - January 2011."
+  imagefolder: Portrait/
+  coverimage: Portrait/Portrait3.jpg
+  date: September 2010 - January 2011
+  num-images: 5
+  images:
+  - number: 1
+    caption: "Figures and portraits, from sketchbook(1), 2010, pencil on paper, 7.1 x 11.14”."
+  - number: 2
+    caption: "Figures and portraits, from sketchbook(2), 2010, acrylic on sugar paper, 11.69 x 16.53”."
+  - number: 3
+    caption: "Figures and portraits, from sketchbook(3), 2010, acrylic on sugar paper, 10.15 x 10.11”."
+  - number: 4
+    caption: "Figures and portraits, from sketchbook(4), 2010, acrylic on card, 11.69 x 16.53”."
+  - number: 5
+    caption: "Figures and portraits, self portrait, 2011, original acrylic and charcoal paper, 16.53 x 23.39”."
